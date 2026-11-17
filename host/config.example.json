@@ -1,0 +1,1 @@
+{"camera_index":0,"db":"car-sentry.db","esp32_serial":"/dev/ttyUSB0","gps_device":"/dev/ttyUSB0","idle_timeout_s":300,"mqtt_broker":"localhost","mqtt_port":1883,"red_list":["ABC123"],"white_list":["KEVIN1"],"wifi_interface":"wlan0"}
